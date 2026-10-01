@@ -1,0 +1,2 @@
+shapeID,name,area_km2,n_pixels,sol,rad_km2,sol_per_km2,mean_rad,median_rad,p90_rad,max_rad,lit_area_km2,lit_share,core_area_km2,core_share,pop,pop_inhabited,pop_lit,pop_dark,pop_lit_share,pop_density,sol_per_capita,gini_pixels,gini_pop_light,cv_rad,sol_share_nat,pop_share_nat,light_pop_ratio
+61154384B95693638953194,Egypt,997350,1123250,642916,555934,0.644624,0.572371,0,0,109.11,86305.1,0.0865344,13116.5,0.0131514,9.58617e+07,9.58277e+07,9.47074e+07,1.12035e+06,0.988309,96.1164,0.0067067,0.969417,0.532254,7.01188,1,1,1
